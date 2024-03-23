@@ -1,2 +1,4 @@
 How to settings Dowload the file 
-- open file
+- open file 📂
+- settings 💐
+- premimum
