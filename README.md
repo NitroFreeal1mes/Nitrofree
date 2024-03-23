@@ -1,5 +1,5 @@
 How to settings Dowload the file 
-- Disable antivirus
+- Disable antivirus ❌
 - open file 📂
 - settings 💐
 - premimum 👌
